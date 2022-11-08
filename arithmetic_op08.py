@@ -4,6 +4,4 @@
 
 # Create a variable "c"  and assign it the value of the int 2.
 
-# Create a variable called 'answer'.
-
-# Find the expression value assign to 'answer'. a*b:c
+# Create a variable called 'answer' and assign it the expression value: a*b:c

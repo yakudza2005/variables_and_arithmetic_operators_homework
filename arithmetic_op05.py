@@ -2,6 +2,4 @@
 
 # Create a variable "b"  and assign it the value of the int 9.
 
-# Create a variable called "answer".
-
-# Find the division of a and b then assign to "answer".
+# Create a variable called "answer" and assign it the division of a by b.
